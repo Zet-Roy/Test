@@ -1,0 +1,56 @@
+{
+  "ListDepartments": [
+    {
+      "id": 1,
+      "nameDepartment": "Web Developer"
+    },
+    {
+      "id": 2,
+      "nameDepartment": "Junior Developer"
+    }
+  ],
+  "ListEmployees": [
+    {
+      "id": 1,
+      "firstName": "Глеб",
+      "lastName": "Ковалёв",
+      "departmentId": 1
+    },
+    {
+      "id": 2,
+      "firstName": "Вадим",
+      "lastName": "Кошелев",
+      "departmentId": 1
+    },
+    {
+      "id": 3,
+      "firstName": "Александр",
+      "lastName": "Устинов",
+      "departmentId": 1
+    },
+    {
+      "id": 4,
+      "firstName": "Матвей",
+      "lastName": "Егоров",
+      "departmentId": 1
+    },
+    {
+      "id": 5,
+      "firstName": "Виктор",
+      "lastName": "Шилов",
+      "departmentId": 2
+    },
+    {
+      "id": 6,
+      "firstName": "Василий",
+      "lastName": "Дементьев",
+      "departmentId": 2
+    },
+    {
+      "id": 7,
+      "firstName": "Ростислав",
+      "lastName": "Юдин",
+      "departmentId": 2
+    }
+  ]
+}

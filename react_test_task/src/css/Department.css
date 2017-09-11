@@ -1,0 +1,11 @@
+.bloc_departments {
+    box-sizing: border-box;
+    border: 1px solid black;
+    background-color: #41AFC7;
+}
+
+.department {
+    font-size: 20pt;
+    padding: 20px;
+    background-color: #2999AF;
+}

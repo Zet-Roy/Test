@@ -1,0 +1,14 @@
+.employee {
+    padding: 20px 20px 20px 40px;
+    margin-bottom: 5px;
+    background-color: antiquewhite;
+}
+.employee:hover {
+    background-color: #EECFAA;
+}
+
+.employeeActive {
+    padding: 20px 20px 20px 40px;
+    margin-bottom: 5px;
+    background-color: #B3936E;
+}

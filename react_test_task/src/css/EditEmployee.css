@@ -1,0 +1,21 @@
+.content {
+    width: 70%;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.edit {
+    padding: 10px;
+    display: inline-block;
+    margin-top: 200px;
+    margin-left: 20px;
+    background-color: coral;
+} 
+
+.firstName {
+    margin: 10px;
+}
+
+.lastName {
+    margin: 10px;
+}
